@@ -25,6 +25,7 @@
   .Contact .status .status-text {
     color: #999;
     margin: 0;
+    margin-left: 6px;
     display: inline-block;
   }
   
@@ -36,6 +37,7 @@
     width: 8px;
     height: 8px;
     margin-right: 6px;
+    margin-left: 4px;
   }
   
   .Contact .status .status-online {
